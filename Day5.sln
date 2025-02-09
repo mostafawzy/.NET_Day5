@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "Problem1\Problem1.csproj", "{21F7966C-B97D-4D47-962D-D59F387BBC5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1,3", "Problem1\Problem1,3.csproj", "{21F7966C-B97D-4D47-962D-D59F387BBC5D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{05309BB5-E81B-4970-B7E2-FE04AE34B945}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLibrary", "EmployeeLibrary\EmployeeLibrary.csproj", "{EE6A62C8-545B-4991-B4C4-DA1C8AC6227E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{BBE6E095-5C6A-4811-ADBC-C4FB9AE45E78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{EE6A62C8-545B-4991-B4C4-DA1C8AC6227E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6A62C8-545B-4991-B4C4-DA1C8AC6227E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6A62C8-545B-4991-B4C4-DA1C8AC6227E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BBE6E095-5C6A-4811-ADBC-C4FB9AE45E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBE6E095-5C6A-4811-ADBC-C4FB9AE45E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBE6E095-5C6A-4811-ADBC-C4FB9AE45E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBE6E095-5C6A-4811-ADBC-C4FB9AE45E78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

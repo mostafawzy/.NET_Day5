@@ -3,6 +3,8 @@ using EmployeeLibrary;
 
 class Program
 {
+
+    //Problem1,3
     static void Main()
     {
         string[] Menu = { "New", "Display", "Sort by Name", "Sort by Salary", "Exit" };

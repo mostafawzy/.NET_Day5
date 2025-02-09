@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hoda\\source\\repos\\mostafawzy\\.NET_Day5\\Problem1\\Problem1.csproj",
-      "projectName": "Problem1",
-      "projectPath": "C:\\Users\\Hoda\\source\\repos\\mostafawzy\\.NET_Day5\\Problem1\\Problem1.csproj",
+      "projectUniqueName": "C:\\Users\\Hoda\\source\\repos\\mostafawzy\\.NET_Day5\\Problem1\\Problem1,3.csproj",
+      "projectName": "Problem1,3",
+      "projectPath": "C:\\Users\\Hoda\\source\\repos\\mostafawzy\\.NET_Day5\\Problem1\\Problem1,3.csproj",
       "packagesPath": "C:\\Users\\Hoda\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hoda\\source\\repos\\mostafawzy\\.NET_Day5\\Problem1\\obj\\",
       "projectStyle": "PackageReference",
